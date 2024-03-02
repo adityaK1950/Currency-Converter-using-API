@@ -22,7 +22,7 @@ For detailed guidance, consult the [DoThis file](https://github.com/adityaK1950/
 If you encounter any challenges, don't hesitate to reach out through the provided contact options.
 
 ### Make Default challenges 🌍
-Feel free to customize the default settings, such as country currency and flags, according to your preferences. Refer to the detailed step-by-step instructions in the [Changes file]() in the repository for guidance on modifying the default country.
+Feel free to customize the default settings, such as country currency and flags, according to your preferences. Refer to the detailed step-by-step instructions in the [Changes file](https://github.com/adityaK1950/Currency-Converter-using-API/blob/main/Changes.md) in the repository for guidance on modifying the default country.
 
 ## 🌐 Introduction 
 
