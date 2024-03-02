@@ -18,7 +18,7 @@ The Currency Converter is a user-friendly application that allows you to convert
 ### Create your API key 📚
 **Create an Account:** Go to [ExchangeWeather-API](https://www.exchangerate-api.com/), sign up, and create an account.
 
-For detailed guidance, consult the [DoThis file]() in the repository. 
+For detailed guidance, consult the [DoThis file](https://github.com/adityaK1950/Currency-Converter-using-API/blob/main/DoThis.md) in the repository. 
 If you encounter any challenges, don't hesitate to reach out through the provided contact options.
 
 ### Make Default challenges 🌍
